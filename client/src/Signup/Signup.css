@@ -1,0 +1,23 @@
+.signup-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.signup-page-heading {
+  text-align: center;
+  margin: 80px 0 50px 0;
+}
+.signup-form {
+  display: flex;
+  flex-direction: column;
+}
+.signup-button {
+  width: 60%;
+  margin-top: 2%;
+  align-self: center;
+  background-color: #059191;
+  color: #fff;
+}
+.signup-button:hover {
+  background-color: #037e7e;
+}

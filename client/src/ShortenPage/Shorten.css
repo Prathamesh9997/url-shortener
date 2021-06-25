@@ -1,0 +1,31 @@
+.shorten-heading {
+  text-align: center;
+  padding: 30px 0 30px 0;
+  background-color: #059191;
+  color: #fff;
+}
+
+.shorten-button {
+  background-color: #059191;
+  color: #fff;
+}
+.shorten-button:hover {
+  background-color: #037e7e;
+}
+
+table {
+  border: 1px solid black;
+  border-radius: 10px;
+  height: 400px;
+}
+
+.loader {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+::-webkit-scrollbar {
+  width: 0; /* Remove scrollbar space */
+  background: transparent; /* Optional: just make scrollbar invisible */
+}
